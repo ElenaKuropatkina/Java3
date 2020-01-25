@@ -1,0 +1,19 @@
+SEVERE	Сервер запущен	Server.MyServer	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Клиент user1 подключен	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+SEVERE	Для user2 введен неправильный логин/пароль	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+SEVERE	Учетная запись для user1 уже используется	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Клиент user2 подключен	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Клиент user3 подключен	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user3 отправил сообщение fnfdnnf	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user2 отправил сообщение fnfnfn	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user1 отправил сообщение fnfnnf	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user1 отправил сообщение /bl nick3	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user1 прислал команду на добавление в черный список user3	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user2 отправил сообщение /w nick3 bcbfxbxb	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user2 отправил личное сообщение user3	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user3 отправил сообщение /end	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Клиент user3 отключился	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user2 отправил сообщение /end	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Клиент user2 отключился	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Пользователь user1 отправил сообщение /end	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
+INFO	Клиент user1 отключился	Server.ClientHandler$1	Sat Jan 25 19:19:10 GMT+03:00 2020
